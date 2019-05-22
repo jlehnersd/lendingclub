@@ -1,0 +1,9 @@
+loan_amount
+application_date
+loan_title
+risk_score
+debt_to_income_ratio
+zipcode_first3
+state
+employment_length
+policy_code

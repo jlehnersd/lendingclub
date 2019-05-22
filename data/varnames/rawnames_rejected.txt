@@ -1,0 +1,9 @@
+Amount.Requested
+Application.Date
+Loan.Title
+Risk_Score
+Debt.To.Income.Ratio
+Zip.Code
+State
+Employment.Length
+Policy.Code

@@ -1,0 +1,16 @@
+LoanStats3a.csv
+LoanStats3b.csv
+LoanStats3c.csv
+LoanStats3d.csv
+LoanStats_2016Q1.csv
+LoanStats_2016Q2.csv
+LoanStats_2016Q3.csv
+LoanStats_2016Q4.csv
+LoanStats_2017Q1.csv
+LoanStats_2017Q2.csv
+LoanStats_2017Q3.csv
+LoanStats_2017Q4.csv
+LoanStats_2018Q1.csv
+LoanStats_2018Q2.csv
+LoanStats_2018Q3.csv
+LoanStats_2018Q4.csv

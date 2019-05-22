@@ -1,0 +1,15 @@
+https://resources.lendingclub.com/RejectStatsA.csv.zip
+https://resources.lendingclub.com/RejectStatsB.csv.zip
+https://resources.lendingclub.com/RejectStatsD.csv.zip
+https://resources.lendingclub.com/RejectStats_2016Q1.csv.zip
+https://resources.lendingclub.com/RejectStats_2016Q2.csv.zip
+https://resources.lendingclub.com/RejectStats_2016Q3.csv.zip
+https://resources.lendingclub.com/RejectStats_2016Q4.csv.zip
+https://resources.lendingclub.com/RejectStats_2017Q1.csv.zip
+https://resources.lendingclub.com/RejectStats_2017Q2.csv.zip
+https://resources.lendingclub.com/RejectStats_2017Q3.csv.zip
+https://resources.lendingclub.com/RejectStats_2017Q4.csv.zip
+https://resources.lendingclub.com/RejectStats_2018Q1.csv.zip
+https://resources.lendingclub.com/RejectStats_2018Q2.csv.zip
+https://resources.lendingclub.com/RejectStats_2018Q3.csv.zip
+https://resources.lendingclub.com/RejectStats_2018Q4.csv.zip
